@@ -1,0 +1,27 @@
+.container{
+    color:white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.tittle{
+    background: linear-gradient(45deg, rgba(58,180,127,1) 0%, rgba(253,130,29,0.36458333333333337) 50%, rgba(69,109,252,1) 100%);
+}
+body{
+    background-color: rgba(151, 170, 146, 0.365)  !important;
+}
+.card{
+    border-radius: 10px !important;
+    background: linear-gradient(160deg, rgba(58,180,127,1) 0%, rgba(253,130,29,0.36458333333333337) 50%, rgba(69,109,252,1) 100%);
+    margin-bottom: 10px !important;
+}
+.card-body{
+    padding-bottom: 50px impot !important;
+    display: flex;
+    flex-direction: column;
+    line-height: 60px;
+    align-items: center;
+}
+.col-sm-6{
+    margin-top: 1em !important;
+}
